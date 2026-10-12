@@ -1,0 +1,15 @@
+venv/
+.venv/
+data/
+
+__pycache__/
+*.pyc
+*.pkl
+
+.vscode/
+catboost_info/
+tempCodeRunnerFile.py
+
+outputs/models/
+outputs/integrated_gradients/*.keras
+outputs/hybrid/stepA/*.keras
